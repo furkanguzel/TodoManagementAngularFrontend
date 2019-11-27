@@ -1,7 +1,7 @@
-#Todo Management Frontend Project Angular 7.0.3 RestFul
+# Todo Management Frontend Project Angular 7.0.3 RestFul
 
 You can add tasks, save and make changes.
-user ıd:furkanguzel password:dummy
+User Id:furkanguzel Password:dummy
 
 Note:Backend part name is TodoManagementSpringBootBackend
 
